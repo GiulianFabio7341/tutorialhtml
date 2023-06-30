@@ -1,0 +1,66 @@
+th,td,b,input{
+    border: 2px solid #0acad8;
+    padding: 6px;
+    border-radius: 10px;
+    font-family:'Montserrat', sans-serif;
+    box-shadow: 10px 10px 10px black;   
+}
+body{
+    color:green;
+    border: 2px solid #0acad8;
+    padding: 25px;
+    border-radius: 5px;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: bisque;
+    box-shadow: 10px 10px 40px black;
+    
+}
+.título{
+    margin-left: 40%;
+    
+}
+.introdução{
+    margin-left:25%;
+}
+
+.github{
+    padding-left:0.9%;
+    
+}
+.github:hover{
+    color: red;
+    transition: 0.2s;
+}
+button{
+    background-color: #0acad8;
+    color: black;
+    border:0;
+    box-shadow: 10px 10px 40px black;
+    height: 29px;
+    width: 100px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+button:hover{
+    background-color: black;
+    color: #0acad8;
+}
+a{
+    text-decoration: none;
+    color: green
+}
+.Sumário{
+    width: 140px;
+    border: #0acad8 2px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px black;
+}
+.negrito{
+    color: black;
+    border: 0px;
+    box-shadow: 0px 0px 0px;
+}
+
+
+
